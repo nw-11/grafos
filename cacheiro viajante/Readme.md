@@ -20,7 +20,8 @@ O arquivo `grafo.txt` é onde guardamos a matriz de adjacência que representa a
 40 31 17 20 39 32 38 33 13 43 17 0 28 35 34
 42 14 38 19 37 37 43 24 25 42 19 28 0 23 41
 7 30 41 28 36 11 45 14 31 18 44 35 23 0 18
-47 46 21 17 29 42 44 12 43 20 14 34 41 18 0 ```
+47 46 21 17 29 42 44 12 43 20 14 34 41 18 0
+```
 
 **voce pode editar o arquivo caso queira testar outro grafo**
 
