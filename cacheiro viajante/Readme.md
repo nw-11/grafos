@@ -35,6 +35,7 @@ Comando para instalar a biblioteca:
 ```bash
 pip install numpy 
  #OU
-python -m pip install numpy```
+python -m pip install numpy
+```
 
 
